@@ -1,0 +1,3 @@
+[
+    { "caption": "Show current PHP class modules list", "command": "methods_list" }
+]

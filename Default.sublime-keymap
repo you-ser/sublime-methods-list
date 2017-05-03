@@ -1,0 +1,4 @@
+[
+    { "keys": [ "ctrl+shift+m"], "command": "methods_list" },
+    { "keys": [ "ctrl+alt+m"], "command": "methods_list" }
+]
